@@ -1,4 +1,6 @@
 <!DOCTYPE html>
+<!-- скелет: v1 · рамка деки FitStars. Отпечаток не удалять: по нему видно,
+     что дека собрана с этой рамки, а не с чистого листа. -->
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
@@ -361,6 +363,29 @@ body.scroll [style*="min-height:560px"],body.scroll [style*="min-height:480px"]{
 .m-hint{display:none;position:sticky;top:0;z-index:50;background:rgba(14,17,25,.92);color:#fff;
   font-size:12px;font-weight:600;letter-spacing:.02em;text-align:center;padding:10px 14px}
 
+
+/* ═══ ПЕЧАТЬ → PDF ═══════════════════════════════════════════════════════
+   Cmd+P → «Сохранить как PDF», поля «Нет», фон включить.
+   Каждый слайд = отдельная страница 1920×1080.
+   !important обязателен: режим показа прячет слайды и зажимает контейнер
+   в высоту экрана, а скрипт ставит transform и height инлайном —
+   без сброса весь PDF выйдет одной страницей. */
+@media print{
+  @page{size:1920px 1080px;margin:0}
+  html,body{background:#fff !important;width:1920px !important;margin:0 !important;
+            height:auto !important;overflow:visible !important}
+  .nav,.dots,.m-hint{display:none !important}
+  body.present .deck,.deck{height:auto !important;display:block !important;
+            overflow:visible !important;max-width:none !important;padding:0 !important}
+  body.present .holder,body.present .holder.on,.holder{display:block !important;
+            width:1920px !important;height:1080px !important;margin:0 !important;
+            overflow:hidden !important;break-after:page;page-break-after:always;
+            break-inside:avoid}
+  .holder:last-child{break-after:auto;page-break-after:auto}
+  .slide{position:relative !important;transform:none !important;
+         width:1920px !important;height:1080px !important}
+  *{-webkit-print-color-adjust:exact !important;print-color-adjust:exact !important}
+}
 </style>
 </head>
 <body class="present">
