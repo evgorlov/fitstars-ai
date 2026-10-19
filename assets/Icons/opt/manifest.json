@@ -1,0 +1,1478 @@
+{
+ "Avocado_img": {
+  "src": "Icons/Avocado_img.svg",
+  "srcBytes": 1041506,
+  "opt": {
+   "128": {
+    "webp": 3598
+   },
+   "256": {
+    "webp": 7852
+   },
+   "512": {
+    "webp": 17922,
+    "png": 159169
+   }
+  }
+ },
+ "Bag_money_img": {
+  "src": "Icons/Bag_money_img.svg",
+  "srcBytes": 852502,
+  "opt": {
+   "128": {
+    "webp": 3244
+   },
+   "256": {
+    "webp": 6760
+   },
+   "512": {
+    "webp": 14144,
+    "png": 126960
+   }
+  }
+ },
+ "Banana2_img": {
+  "src": "Icons/Banana2_img.svg",
+  "srcBytes": 729702,
+  "opt": {
+   "128": {
+    "webp": 3174
+   },
+   "256": {
+    "webp": 6516
+   },
+   "512": {
+    "webp": 14044,
+    "png": 102381
+   }
+  }
+ },
+ "Barbell_img": {
+  "src": "Icons/Barbell_img.svg",
+  "srcBytes": 696593,
+  "opt": {
+   "128": {
+    "webp": 2716
+   },
+   "256": {
+    "webp": 5924
+   },
+   "512": {
+    "webp": 14000,
+    "png": 66151
+   }
+  }
+ },
+ "Boat_img": {
+  "src": "Icons/Boat_img.svg",
+  "srcBytes": 767226,
+  "opt": {
+   "128": {
+    "webp": 5136
+   },
+   "256": {
+    "webp": 10948
+   },
+   "512": {
+    "webp": 24136,
+    "png": 145717
+   }
+  }
+ },
+ "Bon_Fire_img": {
+  "src": "Icons/Bon_Fire_img.svg",
+  "srcBytes": 948634,
+  "opt": {
+   "128": {
+    "webp": 4252
+   },
+   "256": {
+    "webp": 9050
+   },
+   "512": {
+    "webp": 20766,
+    "png": 156024
+   }
+  }
+ },
+ "Book_img": {
+  "src": "Icons/Book_img.svg",
+  "srcBytes": 1089706,
+  "opt": {
+   "128": {
+    "webp": 4300
+   },
+   "256": {
+    "webp": 8788
+   },
+   "512": {
+    "webp": 20178,
+    "png": 193440
+   }
+  }
+ },
+ "Book_open_img": {
+  "src": "Icons/Book_open_img.svg",
+  "srcBytes": 986266,
+  "opt": {
+   "128": {
+    "webp": 4892
+   },
+   "256": {
+    "webp": 10778
+   },
+   "512": {
+    "webp": 24348,
+    "png": 188732
+   }
+  }
+ },
+ "Breath_smile_img": {
+  "src": "Icons/Breath_smile_img.svg",
+  "srcBytes": 1221274,
+  "opt": {
+   "128": {
+    "webp": 3190
+   },
+   "256": {
+    "webp": 6976
+   },
+   "512": {
+    "webp": 16232,
+    "png": 99970
+   }
+  }
+ },
+ "Broccoli2_img": {
+  "src": "Icons/Broccoli2_img.svg",
+  "srcBytes": 1208390,
+  "opt": {
+   "128": {
+    "webp": 4256
+   },
+   "256": {
+    "webp": 9148
+   },
+   "512": {
+    "webp": 22106,
+    "png": 183315
+   }
+  }
+ },
+ "Broken_heart_img": {
+  "src": "Icons/Broken_heart_img.svg",
+  "srcBytes": 961573,
+  "opt": {
+   "128": {
+    "webp": 3330
+   },
+   "256": {
+    "webp": 6684
+   },
+   "512": {
+    "webp": 14960,
+    "png": 139372
+   }
+  }
+ },
+ "Calendar_img": {
+  "src": "Icons/Calendar_img.svg",
+  "srcBytes": 1290586,
+  "opt": {
+   "128": {
+    "webp": 3994
+   },
+   "256": {
+    "webp": 8364
+   },
+   "512": {
+    "webp": 19194,
+    "png": 207441
+   }
+  }
+ },
+ "Carrot_img": {
+  "src": "Icons/Carrot_img.svg",
+  "srcBytes": 763750,
+  "opt": {
+   "128": {
+    "webp": 3460
+   },
+   "256": {
+    "webp": 7434
+   },
+   "512": {
+    "webp": 16488,
+    "png": 117879
+   }
+  }
+ },
+ "Clock2_img": {
+  "src": "Icons/Clock2_img.svg",
+  "srcBytes": 1039634,
+  "opt": {
+   "128": {
+    "webp": 3850
+   },
+   "256": {
+    "webp": 8848
+   },
+   "512": {
+    "webp": 21146,
+    "png": 146450
+   }
+  }
+ },
+ "Close_no3_img": {
+  "src": "Icons/Close_no3_img.svg",
+  "srcBytes": 957518,
+  "opt": {
+   "128": {
+    "webp": 2720
+   },
+   "256": {
+    "webp": 5672
+   },
+   "512": {
+    "webp": 12428,
+    "png": 76654
+   }
+  }
+ },
+ "Close_no_img": {
+  "src": "Icons/Close_no_img.svg",
+  "srcBytes": 569620,
+  "opt": {
+   "128": {
+    "webp": 2210
+   },
+   "256": {
+    "webp": 4652
+   },
+   "512": {
+    "webp": 10674,
+    "png": 61164
+   }
+  }
+ },
+ "Cloud_Chat2_img": {
+  "src": "Icons/Cloud_Chat2_img.svg",
+  "srcBytes": 1007590,
+  "opt": {
+   "128": {
+    "webp": 3160
+   },
+   "256": {
+    "webp": 6316
+   },
+   "512": {
+    "webp": 13554,
+    "png": 151046
+   }
+  }
+ },
+ "Cloud_Chat3_img": {
+  "src": "Icons/Cloud_Chat3_img.svg",
+  "srcBytes": 1200862,
+  "opt": {
+   "128": {
+    "webp": 3514
+   },
+   "256": {
+    "webp": 7090
+   },
+   "512": {
+    "webp": 15526,
+    "png": 173858
+   }
+  }
+ },
+ "Cloud_Hand_img": {
+  "src": "Icons/Cloud_Hand_img.svg",
+  "srcBytes": 1034862,
+  "opt": {
+   "128": {
+    "webp": 4026
+   },
+   "256": {
+    "webp": 8294
+   },
+   "512": {
+    "webp": 18966,
+    "png": 147100
+   }
+  }
+ },
+ "Coffee_cup_img": {
+  "src": "Icons/Coffee_cup_img.svg",
+  "srcBytes": 1320730,
+  "opt": {
+   "128": {
+    "webp": 4038
+   },
+   "256": {
+    "webp": 8340
+   },
+   "512": {
+    "webp": 18564,
+    "png": 187679
+   }
+  }
+ },
+ "Confetti_Petard_img": {
+  "src": "Icons/Confetti_Petard_img.svg",
+  "srcBytes": 747026,
+  "opt": {
+   "128": {
+    "webp": 7682
+   },
+   "256": {
+    "webp": 16598
+   },
+   "512": {
+    "webp": 35412,
+    "png": 151023
+   }
+  }
+ },
+ "Confetti_Stars_img": {
+  "src": "Icons/Confetti_Stars_img.svg",
+  "srcBytes": 597266,
+  "opt": {
+   "128": {
+    "webp": 7690
+   },
+   "256": {
+    "webp": 16060
+   },
+   "512": {
+    "webp": 33728,
+    "png": 100073
+   }
+  }
+ },
+ "Confetti_img": {
+  "src": "Icons/Confetti_img.svg",
+  "srcBytes": 505291,
+  "opt": {
+   "128": {
+    "webp": 6614
+   },
+   "256": {
+    "webp": 13434
+   },
+   "512": {
+    "webp": 28328,
+    "png": 86240
+   }
+  }
+ },
+ "Crescent_moon_img": {
+  "src": "Icons/Crescent_moon_img.svg",
+  "srcBytes": 748336,
+  "opt": {
+   "128": {
+    "webp": 3486
+   },
+   "256": {
+    "webp": 6770
+   },
+   "512": {
+    "webp": 14460,
+    "png": 108302
+   }
+  }
+ },
+ "Darts_img": {
+  "src": "Icons/Darts_img.svg",
+  "srcBytes": 911454,
+  "opt": {
+   "128": {
+    "webp": 4488
+   },
+   "256": {
+    "webp": 10204
+   },
+   "512": {
+    "webp": 23544,
+    "png": 150757
+   }
+  }
+ },
+ "Downward_dynamics_img": {
+  "src": "Icons/Downward_dynamics_img.svg",
+  "srcBytes": 213153,
+  "opt": {
+   "128": {
+    "webp": 1862
+   },
+   "256": {
+    "webp": 4128
+   },
+   "512": {
+    "webp": 11432,
+    "png": 36527
+   }
+  }
+ },
+ "Dumbbells_img": {
+  "src": "Icons/Dumbbells_img.svg",
+  "srcBytes": 265574,
+  "opt": {
+   "128": {
+    "webp": 1888
+   },
+   "256": {
+    "webp": 3776
+   },
+   "512": {
+    "webp": 8006,
+    "png": 41116
+   }
+  }
+ },
+ "Egg_img": {
+  "src": "Icons/Egg_img.svg",
+  "srcBytes": 920542,
+  "opt": {
+   "128": {
+    "webp": 2716
+   },
+   "256": {
+    "webp": 5806
+   },
+   "512": {
+    "webp": 14380,
+    "png": 141465
+   }
+  }
+ },
+ "Eye_smile_img": {
+  "src": "Icons/Eye_smile_img.svg",
+  "srcBytes": 841216,
+  "opt": {
+   "128": {
+    "webp": 3472
+   },
+   "256": {
+    "webp": 7186
+   },
+   "512": {
+    "webp": 16320,
+    "png": 124608
+   }
+  }
+ },
+ "Fabric_Bands_img": {
+  "src": "Icons/Fabric_Bands_img.svg",
+  "srcBytes": 1296230,
+  "opt": {
+   "128": {
+    "webp": 3320
+   },
+   "256": {
+    "webp": 10360
+   },
+   "512": {
+    "webp": 40944,
+    "png": 226632
+   }
+  }
+ },
+ "Finger_Up_img": {
+  "src": "Icons/Finger_Up_img.svg",
+  "srcBytes": 832560,
+  "opt": {
+   "128": {
+    "webp": 3404
+   },
+   "256": {
+    "webp": 7084
+   },
+   "512": {
+    "webp": 15148,
+    "png": 125097
+   }
+  }
+ },
+ "Fire_img": {
+  "src": "Icons/Fire_img.svg",
+  "srcBytes": 868075,
+  "opt": {
+   "128": {
+    "webp": 4094
+   },
+   "256": {
+    "webp": 8700
+   },
+   "512": {
+    "webp": 21128,
+    "png": 189856
+   }
+  }
+ },
+ "Fish_Salmon_img": {
+  "src": "Icons/Fish_Salmon_img.svg",
+  "srcBytes": 918157,
+  "opt": {
+   "128": {
+    "webp": 3950
+   },
+   "256": {
+    "webp": 10294
+   },
+   "512": {
+    "webp": 26336,
+    "png": 154357
+   }
+  }
+ },
+ "Fish_Sushi_img": {
+  "src": "Icons/Fish_Sushi_img.svg",
+  "srcBytes": 915990,
+  "opt": {
+   "128": {
+    "webp": 3214
+   },
+   "256": {
+    "webp": 7046
+   },
+   "512": {
+    "webp": 18382,
+    "png": 141605
+   }
+  }
+ },
+ "FitStar_Star_circle_img": {
+  "src": "Icons/FitStar_Star_circle_img.svg",
+  "srcBytes": 1526106,
+  "opt": {
+   "128": {
+    "webp": 3896
+   },
+   "256": {
+    "webp": 8258
+   },
+   "512": {
+    "webp": 17660,
+    "png": 139092
+   }
+  }
+ },
+ "FitStar_Star_img": {
+  "vector": true,
+  "src": "Icons/FitStar_Star_img.svg"
+ },
+ "Football_img": {
+  "src": "Icons/Football_img.svg",
+  "srcBytes": 1022326,
+  "opt": {
+   "128": {
+    "webp": 3400
+   },
+   "256": {
+    "webp": 7434
+   },
+   "512": {
+    "webp": 16846,
+    "png": 162854
+   }
+  }
+ },
+ "Garland_flags_img": {
+  "src": "Icons/Garland_flags_img.svg",
+  "srcBytes": 532930,
+  "opt": {
+   "128": {
+    "webp": 4214
+   },
+   "256": {
+    "webp": 9062
+   },
+   "512": {
+    "webp": 20488,
+    "png": 89522
+   }
+  }
+ },
+ "Gift2_img-1": {
+  "src": "Icons/Gift2_img-1.svg",
+  "srcBytes": 991344,
+  "opt": {
+   "128": {
+    "webp": 4054
+   },
+   "256": {
+    "webp": 8514
+   },
+   "512": {
+    "webp": 18892,
+    "png": 146953
+   }
+  }
+ },
+ "Gift2_img": {
+  "src": "Icons/Gift2_img.svg",
+  "srcBytes": 910804,
+  "opt": {
+   "128": {
+    "webp": 3828
+   },
+   "256": {
+    "webp": 7818
+   },
+   "512": {
+    "webp": 17418,
+    "png": 138856
+   }
+  }
+ },
+ "Gift_img": {
+  "src": "Icons/Gift_img.svg",
+  "srcBytes": 1332950,
+  "opt": {
+   "128": {
+    "webp": 4140
+   },
+   "256": {
+    "webp": 8584
+   },
+   "512": {
+    "webp": 19854,
+    "png": 199519
+   }
+  }
+ },
+ "Green_Apple_img": {
+  "src": "Icons/Green_Apple_img.svg",
+  "srcBytes": 1026149,
+  "opt": {
+   "128": {
+    "webp": 3514
+   },
+   "256": {
+    "webp": 7160
+   },
+   "512": {
+    "webp": 17288,
+    "png": 153534
+   }
+  }
+ },
+ "Hand_Coub_img": {
+  "src": "Icons/Hand_Coub_img.svg",
+  "srcBytes": 866219,
+  "opt": {
+   "128": {
+    "webp": 3936
+   },
+   "256": {
+    "webp": 8034
+   },
+   "512": {
+    "webp": 19162,
+    "png": 160124
+   }
+  }
+ },
+ "Hand_Flexed_biceps_img": {
+  "src": "Icons/Hand_Flexed_biceps_img.svg",
+  "srcBytes": 1012565,
+  "opt": {
+   "128": {
+    "webp": 3848
+   },
+   "256": {
+    "webp": 7992
+   },
+   "512": {
+    "webp": 17118,
+    "png": 147867
+   }
+  }
+ },
+ "Hand_Imagination_img": {
+  "src": "Icons/Hand_Imagination_img.svg",
+  "srcBytes": 1148242,
+  "opt": {
+   "128": {
+    "webp": 5194
+   },
+   "256": {
+    "webp": 11130
+   },
+   "512": {
+    "webp": 24614,
+    "png": 123046
+   }
+  }
+ },
+ "Hand_Like_img": {
+  "src": "Icons/Hand_Like_img.svg",
+  "srcBytes": 768282,
+  "opt": {
+   "128": {
+    "webp": 3100
+   },
+   "256": {
+    "webp": 6362
+   },
+   "512": {
+    "webp": 14438,
+    "png": 109041
+   }
+  }
+ },
+ "Hand_heart_img": {
+  "src": "Icons/Hand_heart_img.svg",
+  "srcBytes": 1225222,
+  "opt": {
+   "128": {
+    "webp": 5728
+   },
+   "256": {
+    "webp": 12862
+   },
+   "512": {
+    "webp": 29634,
+    "png": 191088
+   }
+  }
+ },
+ "Hand_shake_img": {
+  "src": "Icons/Hand_shake_img.svg",
+  "srcBytes": 1208529,
+  "opt": {
+   "128": {
+    "webp": 4498
+   },
+   "256": {
+    "webp": 9402
+   },
+   "512": {
+    "webp": 21116,
+    "png": 179460
+   }
+  }
+ },
+ "Heart2_img": {
+  "src": "Icons/Heart2_img.svg",
+  "srcBytes": 758082,
+  "opt": {
+   "128": {
+    "webp": 2754
+   },
+   "256": {
+    "webp": 5484
+   },
+   "512": {
+    "webp": 12068,
+    "png": 106744
+   }
+  }
+ },
+ "Heart_Ball_img": {
+  "src": "Icons/Heart_Ball_img.svg",
+  "srcBytes": 1053868,
+  "opt": {
+   "128": {
+    "webp": 4854
+   },
+   "256": {
+    "webp": 10764
+   },
+   "512": {
+    "webp": 30186,
+    "png": 254822
+   }
+  }
+ },
+ "Heart_img": {
+  "src": "Icons/Heart_img.svg",
+  "srcBytes": 1115950,
+  "opt": {
+   "128": {
+    "webp": 3038
+   },
+   "256": {
+    "webp": 6342
+   },
+   "512": {
+    "webp": 14462,
+    "png": 151482
+   }
+  }
+ },
+ "Lamp_light_img": {
+  "src": "Icons/Lamp_light_img.svg",
+  "srcBytes": 662630,
+  "opt": {
+   "128": {
+    "webp": 4260
+   },
+   "256": {
+    "webp": 8952
+   },
+   "512": {
+    "webp": 19108,
+    "png": 102158
+   }
+  }
+ },
+ "Lemon2_img": {
+  "src": "Icons/Lemon2_img.svg",
+  "srcBytes": 811962,
+  "opt": {
+   "128": {
+    "webp": 3702
+   },
+   "256": {
+    "webp": 8384
+   },
+   "512": {
+    "webp": 18762,
+    "png": 126315
+   }
+  }
+ },
+ "Lightning_bolt_circle_img": {
+  "src": "Icons/Lightning_bolt_circle_img.svg",
+  "srcBytes": 912754,
+  "opt": {
+   "128": {
+    "webp": 3578
+   },
+   "256": {
+    "webp": 7164
+   },
+   "512": {
+    "webp": 15892,
+    "png": 131552
+   }
+  }
+ },
+ "Lightning_bolt_img": {
+  "src": "Icons/Lightning_bolt_img.svg",
+  "srcBytes": 579944,
+  "opt": {
+   "128": {
+    "webp": 3250
+   },
+   "256": {
+    "webp": 6610
+   },
+   "512": {
+    "webp": 14166,
+    "png": 83907
+   }
+  }
+ },
+ "Locker_img": {
+  "src": "Icons/Locker_img.svg",
+  "srcBytes": 1121838,
+  "opt": {
+   "128": {
+    "webp": 3788
+   },
+   "256": {
+    "webp": 7914
+   },
+   "512": {
+    "webp": 18984,
+    "png": 178574
+   }
+  }
+ },
+ "Love_Hearts_smile_img": {
+  "src": "Icons/Love_Hearts_smile_img.svg",
+  "srcBytes": 1318901,
+  "opt": {
+   "128": {
+    "webp": 4074
+   },
+   "256": {
+    "webp": 8758
+   },
+   "512": {
+    "webp": 19944,
+    "png": 139391
+   }
+  }
+ },
+ "Love_eyes_smile_img": {
+  "src": "Icons/Love_eyes_smile_img.svg",
+  "srcBytes": 2270742,
+  "opt": {
+   "128": {
+    "webp": 3626
+   },
+   "256": {
+    "webp": 7820
+   },
+   "512": {
+    "webp": 17472,
+    "png": 135031
+   }
+  }
+ },
+ "Mail_Open_img": {
+  "src": "Icons/Mail_Open_img.svg",
+  "srcBytes": 1204122,
+  "opt": {
+   "128": {
+    "webp": 2668
+   },
+   "256": {
+    "webp": 5864
+   },
+   "512": {
+    "webp": 12586,
+    "png": 115349
+   }
+  }
+ },
+ "Mail_img": {
+  "src": "Icons/Mail_img.svg",
+  "srcBytes": 1425106,
+  "opt": {
+   "128": {
+    "webp": 1552
+   },
+   "256": {
+    "webp": 2966
+   },
+   "512": {
+    "webp": 7038,
+    "png": 126052
+   }
+  }
+ },
+ "Marathon_Cup_img": {
+  "src": "Icons/Marathon_Cup_img.svg",
+  "srcBytes": 770274,
+  "opt": {
+   "128": {
+    "webp": 4926
+   },
+   "256": {
+    "webp": 10606
+   },
+   "512": {
+    "webp": 23414,
+    "png": 149926
+   }
+  }
+ },
+ "Massage_Roll_img": {
+  "src": "Icons/Massage_Roll_img.svg",
+  "srcBytes": 1002286,
+  "opt": {
+   "128": {
+    "webp": 4206
+   },
+   "256": {
+    "webp": 9766
+   },
+   "512": {
+    "webp": 22106,
+    "png": 162380
+   }
+  }
+ },
+ "Meditation_Lotus1_img": {
+  "src": "Icons/Meditation_Lotus1_img.svg",
+  "srcBytes": 1364349,
+  "opt": {
+   "128": {
+    "webp": 4956
+   },
+   "256": {
+    "webp": 10692
+   },
+   "512": {
+    "webp": 35216,
+    "png": 250747
+   }
+  }
+ },
+ "Meditation_Lotus3_img": {
+  "src": "Icons/Meditation_Lotus3_img.svg",
+  "srcBytes": 960250,
+  "opt": {
+   "128": {
+    "webp": 4256
+   },
+   "256": {
+    "webp": 8958
+   },
+   "512": {
+    "webp": 19838,
+    "png": 144042
+   }
+  }
+ },
+ "Meditation_Lotus5_img": {
+  "src": "Icons/Meditation_Lotus5_img.svg",
+  "srcBytes": 792716,
+  "opt": {
+   "128": {
+    "webp": 2784
+   },
+   "256": {
+    "webp": 6210
+   },
+   "512": {
+    "webp": 12890,
+    "png": 108698
+   }
+  }
+ },
+ "Note_Hand_img": {
+  "src": "Icons/Note_Hand_img.svg",
+  "srcBytes": 2245417,
+  "opt": {
+   "128": {
+    "webp": 3690
+   },
+   "256": {
+    "webp": 8082
+   },
+   "512": {
+    "webp": 17300,
+    "png": 123060
+   }
+  }
+ },
+ "Note_check2_img": {
+  "src": "Icons/Note_check2_img.svg",
+  "srcBytes": 1121358,
+  "opt": {
+   "128": {
+    "webp": 4562
+   },
+   "256": {
+    "webp": 9318
+   },
+   "512": {
+    "webp": 20372,
+    "png": 196533
+   }
+  }
+ },
+ "Note_check_img": {
+  "src": "Icons/Note_check_img.svg",
+  "srcBytes": 1121242,
+  "opt": {
+   "128": {
+    "webp": 4048
+   },
+   "256": {
+    "webp": 8596
+   },
+   "512": {
+    "webp": 19226,
+    "png": 151650
+   }
+  }
+ },
+ "Note_img": {
+  "src": "Icons/Note_img.svg",
+  "srcBytes": 1000890,
+  "opt": {
+   "128": {
+    "webp": 4456
+   },
+   "256": {
+    "webp": 9208
+   },
+   "512": {
+    "webp": 20464,
+    "png": 183013
+   }
+  }
+ },
+ "Notification_bell_img": {
+  "src": "Icons/Notification_bell_img.svg",
+  "srcBytes": 550497,
+  "opt": {
+   "128": {
+    "webp": 3060
+   },
+   "256": {
+    "webp": 6202
+   },
+   "512": {
+    "webp": 13514,
+    "png": 86104
+   }
+  }
+ },
+ "Poo_smile_img": {
+  "src": "Icons/Poo_smile_img.svg",
+  "srcBytes": 1313745,
+  "opt": {
+   "128": {
+    "webp": 4262
+   },
+   "256": {
+    "webp": 9048
+   },
+   "512": {
+    "webp": 21332,
+    "png": 168943
+   }
+  }
+ },
+ "Profile_img": {
+  "src": "Icons/Profile_img.svg",
+  "srcBytes": 1052638,
+  "opt": {
+   "128": {
+    "webp": 4024
+   },
+   "256": {
+    "webp": 8564
+   },
+   "512": {
+    "webp": 19390,
+    "png": 182967
+   }
+  }
+ },
+ "Refresh2_img": {
+  "src": "Icons/Refresh2_img.svg",
+  "srcBytes": 974949,
+  "opt": {
+   "128": {
+    "webp": 3708
+   },
+   "256": {
+    "webp": 7632
+   },
+   "512": {
+    "webp": 17198,
+    "png": 146652
+   }
+  }
+ },
+ "Rest_Sleep_smile_img": {
+  "src": "Icons/Rest_Sleep_smile_img.svg",
+  "srcBytes": 1210966,
+  "opt": {
+   "128": {
+    "webp": 6450
+   },
+   "256": {
+    "webp": 16714
+   },
+   "512": {
+    "webp": 42116,
+    "png": 194981
+   }
+  }
+ },
+ "Rocket_img": {
+  "src": "Icons/Rocket_img.svg",
+  "srcBytes": 580686,
+  "opt": {
+   "128": {
+    "webp": 3556
+   },
+   "256": {
+    "webp": 7656
+   },
+   "512": {
+    "webp": 16762,
+    "png": 98574
+   }
+  }
+ },
+ "Sad_Tears_smile_img": {
+  "src": "Icons/Sad_Tears_smile_img.svg",
+  "srcBytes": 1440133,
+  "opt": {
+   "128": {
+    "webp": 4144
+   },
+   "256": {
+    "webp": 9084
+   },
+   "512": {
+    "webp": 20088,
+    "png": 149033
+   }
+  }
+ },
+ "Sad_smile_img": {
+  "src": "Icons/Sad_smile_img.svg",
+  "srcBytes": 1025982,
+  "opt": {
+   "128": {
+    "webp": 3304
+   },
+   "256": {
+    "webp": 6834
+   },
+   "512": {
+    "webp": 15458,
+    "png": 151757
+   }
+  }
+ },
+ "Salad_img": {
+  "src": "Icons/Salad_img.svg",
+  "srcBytes": 1384266,
+  "opt": {
+   "128": {
+    "webp": 5066
+   },
+   "256": {
+    "webp": 11828
+   },
+   "512": {
+    "webp": 26662,
+    "png": 217104
+   }
+  }
+ },
+ "Skull_smile_img": {
+  "src": "Icons/Skull_smile_img.svg",
+  "srcBytes": 1292226,
+  "opt": {
+   "128": {
+    "webp": 3338
+   },
+   "256": {
+    "webp": 7054
+   },
+   "512": {
+    "webp": 15012,
+    "png": 135267
+   }
+  }
+ },
+ "Sparkles_stars_img": {
+  "src": "Icons/Sparkles_stars_img.svg",
+  "srcBytes": 562490,
+  "opt": {
+   "128": {
+    "webp": 4568
+   },
+   "256": {
+    "webp": 9226
+   },
+   "512": {
+    "webp": 19812,
+    "png": 89665
+   }
+  }
+ },
+ "Spinning_stars_img": {
+  "src": "Icons/Spinning_stars_img.svg",
+  "srcBytes": 962180,
+  "opt": {
+   "128": {
+    "webp": 5048
+   },
+   "256": {
+    "webp": 10764
+   },
+   "512": {
+    "webp": 24558,
+    "png": 155245
+   }
+  }
+ },
+ "Sports_Mat_img": {
+  "src": "Icons/Sports_Mat_img.svg",
+  "srcBytes": 3097334,
+  "opt": {
+   "128": {
+    "webp": 1484
+   },
+   "256": {
+    "webp": 3622
+   },
+   "512": {
+    "webp": 10784,
+    "png": 103173
+   }
+  }
+ },
+ "Star2_img": {
+  "src": "Icons/Star2_img.svg",
+  "srcBytes": 109020,
+  "opt": {
+   "128": {
+    "webp": 3028
+   },
+   "256": {
+    "webp": 6418
+   },
+   "512": {
+    "webp": 17428,
+    "png": 99215
+   }
+  }
+ },
+ "Star_img": {
+  "src": "Icons/Star_img.svg",
+  "srcBytes": 615518,
+  "opt": {
+   "128": {
+    "webp": 3456
+   },
+   "256": {
+    "webp": 7326
+   },
+   "512": {
+    "webp": 15882,
+    "png": 100563
+   }
+  }
+ },
+ "Sub_Bezlimit_img": {
+  "src": "Icons/Sub_Bezlimit_img.svg",
+  "srcBytes": 1021525,
+  "opt": {
+   "128": {
+    "webp": 4450
+   },
+   "256": {
+    "webp": 9618
+   },
+   "512": {
+    "webp": 34170,
+    "png": 240629
+   }
+  }
+ },
+ "Sun_img": {
+  "src": "Icons/Sun_img.svg",
+  "srcBytes": 580770,
+  "opt": {
+   "128": {
+    "webp": 4386
+   },
+   "256": {
+    "webp": 9378
+   },
+   "512": {
+    "webp": 20880,
+    "png": 92149
+   }
+  }
+ },
+ "Tape_measure_img": {
+  "src": "Icons/Tape_measure_img.svg",
+  "srcBytes": 510091,
+  "opt": {
+   "128": {
+    "webp": 4666
+   },
+   "256": {
+    "webp": 11136
+   },
+   "512": {
+    "webp": 25220,
+    "png": 144276
+   }
+  }
+ },
+ "Tea_cup_img": {
+  "src": "Icons/Tea_cup_img.svg",
+  "srcBytes": 619506,
+  "opt": {
+   "128": {
+    "webp": 4402
+   },
+   "256": {
+    "webp": 9072
+   },
+   "512": {
+    "webp": 20292,
+    "png": 138461
+   }
+  }
+ },
+ "Thermometer_img": {
+  "src": "Icons/Thermometer_img.svg",
+  "srcBytes": 479446,
+  "opt": {
+   "128": {
+    "webp": 3374
+   },
+   "256": {
+    "webp": 7440
+   },
+   "512": {
+    "webp": 16416,
+    "png": 90412
+   }
+  }
+ },
+ "Trash_img": {
+  "src": "Icons/Trash_img.svg",
+  "srcBytes": 823710,
+  "opt": {
+   "128": {
+    "webp": 3736
+   },
+   "256": {
+    "webp": 7774
+   },
+   "512": {
+    "webp": 16716,
+    "png": 148985
+   }
+  }
+ },
+ "Upward_dynamics_img": {
+  "src": "Icons/Upward_dynamics_img.svg",
+  "srcBytes": 254973,
+  "opt": {
+   "128": {
+    "webp": 2064
+   },
+   "256": {
+    "webp": 4140
+   },
+   "512": {
+    "webp": 9248,
+    "png": 30002
+   }
+  }
+ },
+ "Video_circle_img": {
+  "src": "Icons/Video_circle_img.svg",
+  "srcBytes": 823437,
+  "opt": {
+   "128": {
+    "webp": 3306
+   },
+   "256": {
+    "webp": 6726
+   },
+   "512": {
+    "webp": 14642,
+    "png": 115915
+   }
+  }
+ },
+ "Weights_img": {
+  "src": "Icons/Weights_img.svg",
+  "srcBytes": 938034,
+  "opt": {
+   "128": {
+    "webp": 4554
+   },
+   "256": {
+    "webp": 9644
+   },
+   "512": {
+    "webp": 21848,
+    "png": 134597
+   }
+  }
+ }
+}
