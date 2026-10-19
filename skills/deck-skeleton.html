@@ -364,6 +364,128 @@ body.scroll [style*="min-height:560px"],body.scroll [style*="min-height:480px"]{
   font-size:12px;font-weight:600;letter-spacing:.02em;text-align:center;padding:10px 14px}
 
 
+/* ═══ РЯДЫ КАРТОЧЕК · лестницы зашиты в CSS ═════════════════════════════
+   Зазор, паддинг, кегль заголовка и размер плашки иконки зависят от числа
+   карточек в ряду. Раньше это были правила в тексте — их забывали.
+   Теперь это умолчания: берёшь .gridN и получаешь верные числа сразу.
+   Переопределять осознанно можно, случайно — не получится.
+   ──────────────────────────────────────────────────────────────────── */
+.grid4{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:24px;align-items:stretch}
+.grid5{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:20px;align-items:stretch}
+
+.grid2>.card{padding:69px 48px}   /* comfort */
+.grid3>.card{padding:46px 48px}   /* база */
+.grid4>.card{padding:40px 36px}
+.grid5>.card{padding:32px 28px}
+
+/* Заголовок карточки — герой тем сильнее, чем меньше карточек в ряду. */
+.grid2>.card .h3{font-size:56px;line-height:1.05;letter-spacing:-1.4px}
+.grid3>.card .h3{font-size:44px;line-height:1.08;letter-spacing:-1px}
+.grid4>.card .h3{font-size:30px}
+.grid5>.card .h3{font-size:25px}
+
+/* Плашка иконки — по той же плотности. */
+.grid4 .ico-plate{width:96px;height:96px}
+.grid4 .ico-plate img{width:62px;height:62px}
+.grid5 .ico-plate{width:72px;height:72px;border-radius:16px;margin-bottom:14px}
+.grid5 .ico-plate img{width:48px;height:48px}
+
+/* Замыкающий элемент карточки прижат к низу: общая нижняя кромка в ряду. */
+.card .bottom{margin-top:auto}
+
+/* Плоская карточка — подложка без тени, под контейнер для медиа и чипов. */
+.card.flat{box-shadow:none;border-color:transparent}
+
+/* Ряд чипов. */
+.chips{display:flex;flex-wrap:wrap;gap:12px}
+.chip.hl{background:#fff;color:var(--navy)}
+
+/* ═══ ПРИЁМЫ КОМПОЗИЦИИ ═════════════════════════════════════════════════
+   Три блока, снятых с деки, которую отдел дизайна принял как эталон.
+   Это не украшения: каждый решает задачу, на которой композиция обычно
+   разваливается. Разметка и когда что брать — в скилле, раздел «Приёмы».
+   ──────────────────────────────────────────────────────────────────── */
+
+/* 1 · ИМИТАЦИЯ ПОСТА — .post
+   Когда реального скрина нет или он не лезет в ряд. Главное здесь —
+   .body с обрезкой по числу строк: посты разной длины дают карточки
+   одинаковой высоты, и ряд не разъезжается. */
+.post{background:#fff;border-radius:var(--r-inner);border:1.5px solid var(--line);
+  padding:18px 18px 16px;display:flex;flex-direction:column;gap:12px}
+.post .top{display:flex;align-items:center;gap:12px}
+.post .av{width:40px;height:40px;border-radius:50%;flex:none;display:flex;
+  align-items:center;justify-content:center;background:linear-gradient(150deg,#FF8FC4,#FFD3AC)}
+.post .av svg{width:22px;height:21px}
+.post .av svg path{fill:#fff}
+.post .nm{font-size:18px;font-weight:700;color:var(--navy);line-height:1.15}
+.post .dt{font-size:15px;font-weight:500;color:var(--mut);line-height:1.2}
+.post .frame{position:relative;border-radius:14px;overflow:hidden;background:var(--c-chart);
+  aspect-ratio:16/9;display:flex;align-items:center;justify-content:center}
+.post .frame.r43{aspect-ratio:4/3} .post .frame.r11{aspect-ratio:1/1}
+.post .frame.r45{aspect-ratio:4/5} .post .frame.r916{aspect-ratio:9/16}
+.post .frame>img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.post .frame .phl{font-size:16px;font-weight:600;color:var(--mut);text-align:center;
+  padding:0 20px;line-height:1.35}
+.post .frame .play{width:64px;height:64px;border-radius:50%;background:rgba(24,29,49,.55);
+  display:flex;align-items:center;justify-content:center}
+.post .frame .play::after{content:"";border-left:20px solid #fff;
+  border-top:12px solid transparent;border-bottom:12px solid transparent;margin-left:5px}
+.post .frame .dur{position:absolute;left:10px;top:10px;background:rgba(24,29,49,.55);
+  color:#fff;font-size:14px;font-weight:600;border-radius:8px;padding:3px 8px}
+.post .body{font-size:18px;line-height:1.38;font-weight:500;color:var(--navy);
+  display:-webkit-box;-webkit-box-orient:vertical;overflow:hidden}
+.post .body.l3{-webkit-line-clamp:3} .post .body.l4{-webkit-line-clamp:4}
+.post .body.l5{-webkit-line-clamp:5} .post .body.l7{-webkit-line-clamp:7}
+.post .body.l9{-webkit-line-clamp:9}
+.post .react{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-top:auto}
+/* Пост растягивается на всю карточку — тогда реакции всех карточек ряда
+   встают на одну линию. Без этого ряд выглядит лесенкой. */
+.card>.post{flex:1 1 auto}
+.post .react span{background:var(--c-sky);color:#2481CC;border-radius:999px;
+  padding:5px 10px;font-size:15px;font-weight:700;line-height:1}
+.post .react .views{margin-left:auto;background:none;color:var(--mut);font-weight:600;padding:5px 0}
+
+/* 2 · БОКС С КАДРАМИ — .mediabox
+   Когда материал разнородный по пропорциям. Подложка собирает его в один
+   объект, кадры внутри одной пропорции. .shift на среднем — намеренный
+   сдвиг по высоте: это ритм, а не сбой. */
+.mediabox{display:grid;gap:24px;align-items:start;padding:40px}
+.mediabox.n2{grid-template-columns:repeat(2,1fr)}
+.mediabox.n3{grid-template-columns:repeat(3,1fr)}
+.mediabox .ph{aspect-ratio:3/4;background:#fff;border-radius:var(--r-inner);
+  border:1.5px dashed rgba(24,29,49,.16);display:flex;flex-direction:column;
+  align-items:center;justify-content:center;gap:10px;overflow:hidden;position:relative;
+  font-size:16px;font-weight:600;color:var(--mut);text-align:center;line-height:1.35}
+.mediabox .ph.r11{aspect-ratio:1/1} .mediabox .ph.r45{aspect-ratio:4/5}
+.mediabox .ph.r169{aspect-ratio:16/9}
+.mediabox .ph>img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.mediabox .ph.fit>img{object-fit:contain;background:#fff}
+.mediabox .shift{margin-top:48px}
+
+/* 3 · СПЛИТ «ГЕРОЙ + БОКС» — .split
+   Слева смысл и крупное число, справа материал. Колонки Fill × фикс,
+   stretch по высоте: правый объект держит слайд, левый его объясняет. */
+.split{display:grid;gap:56px;align-items:stretch}
+.split.w980{grid-template-columns:1fr 980px}
+.split.w760{grid-template-columns:1fr 760px}
+.split.w540{grid-template-columns:1fr 540px}
+.split.half{grid-template-columns:1fr 1fr}
+.split .hero{font-size:150px;line-height:.95;font-weight:700;letter-spacing:-5px;
+  color:var(--pink);white-space:nowrap}
+.split .hero.navy{color:var(--navy)}
+.split .herolbl{font-size:28px;font-weight:600;color:var(--navy);line-height:1.3;
+  margin-top:18px;max-width:560px}
+.split .note{font-size:21px;line-height:1.45;font-weight:500;color:var(--body);
+  margin-top:36px;max-width:600px}
+
+/* Колонка чисел: карточки делят высоту поровну и держат правый край слайда. */
+.numcol{display:flex;flex-direction:column;gap:28px;height:100%}
+.numcol .card{flex:1 1 0;justify-content:center}
+.numcol .v{font-size:104px;line-height:1;font-weight:700;letter-spacing:-3.5px;
+  color:var(--navy);white-space:nowrap}
+.numcol .v.pk{color:var(--pink)}
+.numcol .lbl{font-size:24px;color:var(--body);font-weight:600;margin-top:14px}
+
 /* ═══ ПЕЧАТЬ → PDF ═══════════════════════════════════════════════════════
    Cmd+P → «Сохранить как PDF», поля «Нет», фон включить.
    Каждый слайд = отдельная страница 1920×1080.
