@@ -560,8 +560,20 @@
   }
  },
  "FitStar_Star_img": {
-  "vector": true,
-  "src": "Icons/FitStar_Star_img.svg"
+  "src": "Icons/FitStar_Star_img.svg",
+  "srcBytes": 491931,
+  "note": "честный вектор: растрирован из контура, а не из встроенной картинки",
+  "opt": {
+   "128": {
+    "webp": 9658
+   },
+   "256": {
+    "webp": 13362
+   },
+   "512": {
+    "webp": 21788
+   }
+  }
  },
  "Football_img": {
   "src": "Icons/Football_img.svg",
@@ -595,22 +607,6 @@
    }
   }
  },
- "Gift2_img-1": {
-  "src": "Icons/Gift2_img-1.svg",
-  "srcBytes": 991344,
-  "opt": {
-   "128": {
-    "webp": 4054
-   },
-   "256": {
-    "webp": 8514
-   },
-   "512": {
-    "webp": 18892,
-    "png": 146953
-   }
-  }
- },
  "Gift2_img": {
   "src": "Icons/Gift2_img.svg",
   "srcBytes": 910804,
@@ -624,6 +620,22 @@
    "512": {
     "webp": 17418,
     "png": 138856
+   }
+  }
+ },
+ "Gift2_img-1": {
+  "src": "Icons/Gift2_img-1.svg",
+  "srcBytes": 991344,
+  "opt": {
+   "128": {
+    "webp": 4054
+   },
+   "256": {
+    "webp": 8514
+   },
+   "512": {
+    "webp": 18892,
+    "png": 146953
    }
   }
  },
